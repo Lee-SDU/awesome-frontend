@@ -30,6 +30,7 @@
 - [topcoat](https://github.com/topcoat/topcoat)
 - [UIkit](https://github.com/uikit/uikit)
 - [Material UI](https://github.com/callemall/material-ui)
+- [Materialize - 一个基于 Material Design 的 CSS 框架](https://github.com/Dogfalo/materialize)
 - [Framework7](http://www.idangero.us/framework7)
 - [mui](https://github.com/dcloudio/mui)
 - [ionic framework](http://ionicframework.com/)
@@ -44,24 +45,29 @@
   - [Angular](https://github.com/angular/angular)
   - [jQuery](https://github.com/jquery/jquery)
   - [Backbone.js](https://github.com/jashkenas/backbone)
+  - [ember.js](https://github.com/emberjs/ember.js)
   - [Ractive.js](https://github.com/ractivejs/ractive)
   - [KISSY](https://github.com/kissyteam/kissy)
   - [Zepto.js](https://github.com/madrobby/zepto)
   - [Vanilla JS](http://vanilla-js.com/)
   - [Avalon](https://github.com/RubyLouvre/avalon)
   - [T3 JavaScript Framework - 一个用于搭建大型Web应用的客户端JS框架](https://github.com/box/t3js/)
+  - [jsblocks - Better MV-ish Framework 从简单 UI 到复杂单页应用都适用](https://github.com/astoilkov/jsblocks)
 - 轻量级JavaScript框架
   - [Min.js - Super minimal selector and event library](https://github.com/remy/min.js) 
   - [skel.js - A lightweight responsive framework](https://github.com/n33/skel)
+  - [Sprint.js - 一个高性能、小体积的 DOM 操作库](https://github.com/bendc/sprint)
 - JavaScript 工具库
   - [underscore.js](https://github.com/jashkenas/underscore)
+  - [functional.js](https://github.com/leecrossley/functional-js/)
   - [Lo-Dash - A JavaScript utility library](https://github.com/lodash/lodash)
   - [Lazy.js - a functional utility library for JavaScript](https://github.com/dtao/lazy.js)
   - [Fn.js](https://github.com/eliperelman/fn.js)
   - [Way.js - 双向数据绑定库](https://github.com/gwendall/way.js)
   - [Keys.js - 应用快捷键](https://github.com/bitwalker/keys.js)
+  - [simple-hotkeys](https://github.com/mycolorway/simple-hotkeys)
   - [Mousetrap - 键盘快捷键操作](https://github.com/ccampbell/mousetrap)
-  - [Vue.js - 数据驱动的组件化MVVM库](https://github.com/yyx990803/vue)
+  - [Vue.js - 数据驱动的组件化MVVM库(用于创建web交互界面和数据双向绑定)](https://github.com/yyx990803/vue)
 
 ##3. 前端游戏框架
 
@@ -120,7 +126,7 @@
 - [crossroads.js](https://github.com/millermedeiros/crossroads.js)
 - [hash.js](https://github.com/javve/hash.js)  
 - [path.js](https://github.com/mtrpcic/pathjs)
-- [director](https://github.com/flatiron/director)
+- [director.js - 前端路由库(通过#符号进行路径组织,结合vue的component可进行单页的局部模块刷新)](https://github.com/flatiron/director)
 - [URI.js](https://github.com/medialize/URI.js)
 - [Roadcrew.js](https://github.com/grobmeier/Roadcrew.js)
 - [SpeakingURL](https://github.com/pid/speakingurl)
@@ -160,13 +166,14 @@
 
 - [jQuery File Upload Plugin](https://github.com/blueimp/jQuery-File-Upload)
 - [百度 Web Uploader](http://fex-team.github.io/webuploader/)
-- [Uploadify](http://www.uploadify.com/)
+- [uploadify](http://www.uploadify.com/)
 - [Plupload](https://github.com/moxiecode/plupload)
 - [Fine Uploader](http://fineuploader.com/index.html)
 - [arale-upload - 轻量级 iframe and html5 file uploader](https://github.com/aralejs/upload)
-- [Dropzone.js - drag'n'drop library拖拽上传](https://github.com/enyo/dropzone)
+- [Dropzone.js - 文件上传库(可获取文件mime, 文件大小等; 针对图片可生成缩略图,获取图片宽度,高度)](https://github.com/enyo/dropzone)
 - [flow.js](https://github.com/flowjs/flow.js)
 - [localResizeIMG3 - 前端本地客户端压缩图片，兼容IOS，Android，PC](https://github.com/think2011/localResizeIMG3)
+- [simple-uploader](https://github.com/mycolorway/simple-uploader)
 
 ###10.5 日期选择
 
@@ -183,6 +190,7 @@
 
 - [TaggingJS – 可以灵活定制的 jQuery 标签系统插件](https://github.com/sniperwolf/taggingJS)
 - [selectize.js](https://github.com/brianreavis/selectize.js)
+- [Bootstrap Tags Input](https://github.com/timschlechter/bootstrap-tagsinput/)
 
 ###10.8 自动完成插件
 
@@ -206,6 +214,7 @@
 - [epoch - 数据图表可视化](https://github.com/fastly/epoch/)
 - [Vis.js](https://github.com/almende/vis)
 - [Coutour.js](https://github.com/forio/contour)
+- [zrender - 一个轻量级的Canvas类库，MVC封装，数据驱动，提供类Dom事件模型，让canvas绘图大不同！](https://github.com/ecomfe/zrender)
 
 ##12. 日期格式化
 
@@ -225,6 +234,7 @@
 - [jquery-mousewheel - jQuery鼠标滚轮滚动侦测插件](https://github.com/jquery/jquery-mousewheel/)
 - [Glide.js - 轻量级滑块组件](https://github.com/jedrzejchalubek/Glide.js)
 - [PhotoSwipe](https://github.com/dimsemenov/photoswipe)
+- [TouchSlide - 触屏滑动特效(焦点图,Tab切换)](http://www.superslide2.com/TouchSlide/)
 
 ###13.2 瀑布流
 
@@ -256,6 +266,9 @@
 - [ImageLightbox.js - 灯箱效果](http://osvaldas.info/examples/image-lightbox-responsive-touch-friendly/)
 - [JQuery Panorama Viewer - 全景视图](https://github.com/peachananr/panorama_viewer)
 - [Intense Images - 全屏查看图片](https://github.com/tholman/intense-images)
+- [Picturefill - 一个响应式图片 JS 插件](http://scottjehl.github.io/picturefill/)
+- [zoom.js - 一个 jQuery 图片放大插件](https://github.com/fat/zoom.js)
+- [watermarkjs - 一个在浏览器中添加图片水印的 JS 库](https://github.com/brianium/watermarkjs)
 
 ###13.5 图片剪裁/图片处理
 
@@ -264,6 +277,7 @@
 - [jQuery.eraser - 图像擦除插件](https://github.com/boblemarin/jQuery.eraser)
 - [DD_belatedPNG.js - 让IE6支持透明PNG图片](http://www.dillerdesign.com/experiment/DD_belatedPNG/)
 - [FocusPoint.js 实现图片的响应式裁剪](https://github.com/jonom/jquery-focuspoint)
+- [imgareaselect](https://github.com/odyniec/imgareaselect)
 
 ###13.6 进度条/加载动画(Loading)
 
@@ -305,6 +319,7 @@
 - [jquery.scrollTo - 平滑滚动到页面指定位置](https://github.com/flesler/jquery.scrollTo)
 - [smooth-scroll](https://github.com/cferdinandi/smooth-scroll)
 - [scrollUp](https://github.com/markgoodyear/scrollup)
+- [elevator.js - 一个模拟电梯运行“返回顶部”的 JS 插件](https://github.com/tholman/elevator.js)
 
 ###13.12 全屏滚动/全屏切换
 
@@ -401,6 +416,9 @@
 - [Bounce.js - CSS3 关键帧动画](https://github.com/tictail/bounce.js)
 - [Sticker.js - create a Sticker Effect](https://github.com/cmiscm/stickerjs)
 - [scrollReveal.js - 元素进入可视区域自动触发设置好的动画](https://github.com/julianlloyd/scrollReveal.js)
+- [stroll.js - CSS3 list scroll effects](https://github.com/hakimel/stroll.js)
+- [jQuery Easing -  动画效果扩展](https://github.com/gdsmith/jquery.easing)
+- [animations - CSS3 ANIMATION CHEAT SHEET](http://www.justinaguilar.com/animations/index.html)
 
 ##17. 本地存储
 
@@ -452,6 +470,7 @@
 
 ##22. 文档/表格/PDF
 
+- [Backgrid.js - 强大的表格组件](https://github.com/wyuenho/backgrid)
 - [handsontable - 在线可编辑excel表格](https://github.com/handsontable/handsontable)
 - [jQuery Bootgrid - 用于ajax生成动态表格](https://github.com/rstaib/jquery-bootgrid)
 - [DataTables - Table plug-in for jQuery](https://github.com/DataTables/DataTables)
@@ -506,6 +525,7 @@
 - [Markdown Plus](https://github.com/tylingsoft/markdown-plus)
 - [Editor.md - 开源在线Markdown编辑器](https://github.com/pandao/editor.md)
 - [stackedit](https://github.com/benweet/stackedit)
+- [Redactor Text Editor](http://imperavi.com/redactor/)
 
 ##28. 内容提取(Readability)
 
@@ -526,6 +546,7 @@
 - [Responsive-Tabs](https://github.com/jellekralt/Responsive-Tabs)
 - [ion.tabs - jQuery tabs plugin](https://github.com/IonDen/ion.tabs)
 - [jQuery-EasyTabs](https://github.com/JangoSteve/jQuery-EasyTabs)
+- [tabulous.js](https://github.com/aarondo/tabulous.js)
 
 ##31. 文本处理
 
@@ -538,6 +559,7 @@
 - [FitText - A jQuery plugin for inflating web type](https://github.com/davatron5000/FitText.js)
 - [shine.js - 实现漂亮阴影](https://github.com/bigspaceship/shine.js)
 - [Type Rendering Mix - 文本渲染引擎](https://github.com/bramstein/trmix/)
+- [jquery-expander - 阅读更多](https://github.com/kswedberg/jquery-expander)
 
 ##32. 布局(Layout)
 
@@ -545,7 +567,11 @@
   - [split-pane](https://github.com/shagstrom/split-pane)
   - [jQuery UI Layout](http://layout.jquery-dev.com/)
 
-##33. 实用工具/其他插件
+##33. 演示/幻灯片
+
+- [reveal.js - The HTML Presentation Framework](https://github.com/hakimel/reveal.js)
+
+##34. 实用工具/其他插件
 
 - [jquery-cookie](https://github.com/carhartl/jquery-cookie)
 - [FastClick - 处理移动端 click 事件 300 毫秒延迟](https://github.com/ftlabs/fastclick)
@@ -563,6 +589,7 @@
 - [Shepherd - 为应用创建用户指南](https://github.com/HubSpot/shepherd)
 - [RulersGuide.js - 类似PhotoShop标尺的js库](https://github.com/mark-rolich/RulersGuides.js)
 - [Gremlins.js - Monkey 测试库](https://github.com/marmelab/gremlins.js)
+- [RoughDraft.js - 简单快速的创建交互式的 HTML 模型的原型工具](https://github.com/ndreckshage/roughdraft.js/)
 
 #前端开发工具
 
@@ -589,6 +616,8 @@
 - [AlloyDesigner - 前端重构开发辅助工具](https://chrome.google.com/webstore/detail/alloydesigner/ojooeaohlmgpcjajikhmibcnbebfenid)
 - [Fontface Ninja](https://chrome.google.com/webstore/detail/fontface-ninja/eljapbgkmlngdpckoiiibecpemleclhh)
 - [PageSpeed Insights (by Google)](https://chrome.google.com/webstore/detail/pagespeed-insights-by-goo/gplegfbjlmmehdoakndmohflojccocli)
+- [HTTP Status](https://chrome.google.com/webstore/detail/http-status/cknfnacbckhfpjahnmkblajcpledpfnp/related)
+- [Redirect Path](https://chrome.google.com/webstore/detail/redirect-path/aomidfkchockcldhbkggjokdkkebmdll/related)
 
 #前端参考集
 
